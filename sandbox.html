@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hamburger Menu</title>
+<style>
+    /* Styles for the hamburger menu */
+    .menu-toggle {
+        display: block;
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+        position: relative;
+    }
+    .menu-toggle span {
+        display: block;
+        width: 100%;
+        height: 1px;
+        background-color: blue;
+        position: absolute;
+        transition: transform 0.4s ease;
+    }
+    .menu-toggle span:nth-child(1) {
+        top: 5px;
+        height: 2px;
+    }
+    .menu-toggle span:nth-child(2) {
+        bottom: 15px;
+        transform: translateY(-50%);
+    }
+    .menu-toggle span:nth-child(3) {
+        top: 15px;
+        transform: translateY(-50%);
+    }
+    .menu-toggle span:nth-child(4) {
+        bottom: 5px;
+        height: 2px;
+    }
+
+    /* Styles for the cross (X) icon */
+    .menu-toggle.active span:nth-child(1) {
+        opacity: 0;
+    }
+    .menu-toggle.active span:nth-child(2) {
+        transform: translateY(50%) rotate(45deg);
+        height: 2px;
+        background-color: red;
+    }
+    .menu-toggle.active span:nth-child(3) {
+        transform: translateY(-50%) rotate(-45deg);
+        height: 2px;
+        background-color: red;
+    }
+    .menu-toggle.active span:nth-child(4) {
+        opacity: 0;
+    }
+</style>
+</head>
+<body>
+
+<div class="menu-toggle" onclick="toggleMenu()">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+</div>
+
+<script>
+    function toggleMenu() {
+        const menuToggle = document.querySelector('.menu-toggle');
+        const bars = menuToggle.querySelectorAll('.bar');
+        menuToggle.classList.toggle('active');
+
+        bars.forEach(bar => {
+            bar.classList.toggle('active');
+        });
+    }
+</script>
+
+</body>
+</html>

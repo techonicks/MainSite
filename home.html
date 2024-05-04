@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="head">
+        <header>
+            <div class="tech-head">
+                <a href="#" class="logo"><img src="assets/logo.png" alt="Logo"></a>
+                <div class="techonicks">
+                    <p class="title">TECH-O-NICKS</span><br/>
+                    <p class="subtitle">Tech-Club of CGEC</span>
+                </div>
+            </div>
+            <div class="menu">
+                <div class="menu-toggle" onclick="toggleMenu()">
+                    <span class="bar" id="o"></span>
+                    <span class="bar" id="t"></span>
+                    <span class="bar" id="u"></span>
+                    <span class="bar" id="g"></span>
+                </div>
+                <ul class="navbar">
+                    <li><a href="sandbox.html">About</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="#">Certification</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </header>
+    </div>
+    <div class="construction">
+        <div class="con-text">
+            <h1>Site Under Construction</h1>
+            <p>This site is currently under construction.<br>Hope to see you soon.</p>
+        </div>
+        <div class="con-img">
+            <img src="assets/construction.jpeg" alt="Logo">
+        </div>
+    </div>
+    <div class="address">
+        <div class="left">
+            <h1>Our Address</h1>
+            <div class="add-card">
+                <p>Cooch Behar Government Engineering College, Vill: Harinchawra, P.O.: Ghughumari, Dist: Cooch Behar, West Bengal - 736170</p>
+            </div>
+        </div>
+        <div class="add-map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.0258011778055!2d89.45762447506553!3d26.293263577021914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e2fc6ea5239b93%3A0xe4952b5891bb2389!2sCooch%20Behar%20Government%20Engineering%20College!5e0!3m2!1sen!2sin!4v1714773302385!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+    <div class="foot">
+        <ul class="navbar">
+            <li><a href="sandbox.html">Home</a></li>
+            <li><a href="sandbox.html">About</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Certification</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Sitemap</a></li>
+        </ul>
+        <ul class="social">
+            <li><a href="sandbox.html"><img src="assets/social-discord.svg" alt="Discord"></a></li>
+            <li><a href="sandbox.html"><img src="assets/social-instagram.svg" alt="Instagram"></a></li>
+            <li><a href="sandbox.html"><img src="assets/social-linkedin.svg" alt="LinkedIn"></a></li>
+            <li><a href="sandbox.html"><img src="assets/social-youtube.svg" alt="YouTube"></a></li>
+            <li><a href="sandbox.html"><img src="assets/social-github.svg" alt="GitHub"></a></li>
+        </ul>
+        <pre>The Official Technical Club of <wbr>Cooch Behar Government Engineering College.</pre>
+    </div>
+</body>
+
+<script>
+    function toggleMenu() {
+        const menuToggle = document.querySelector('.menu-toggle');
+        const bars = menuToggle.querySelectorAll('.bar');
+        menuToggle.classList.toggle('active');
+
+        bars.forEach(bar => {
+            bar.classList.toggle('active');
+        });
+
+        const menu = document.querySelector('.navbar');
+        menu.classList.toggle('active');
+    }
+</script>
+</html>
