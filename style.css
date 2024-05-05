@@ -29,7 +29,6 @@
 body {
     background-color: black;
     color: white;
-    /* padding: 150px 15% 100px; */
 }
 
 .custom_style {
@@ -235,52 +234,3 @@ body {
 
 
 
-
-@media screen and (max-width: 720px) {
-    .menu-toggle {
-        display: block;
-    }
-    .menu .navbar {
-        display: none;
-    }
-    .menu .navbar.active {
-        display: block;
-        position: fixed;
-        width: 90vw;
-        height: fit-content;
-        top: 20vh;
-        left: 5vw;
-        z-index: 1000;
-        align-items: center;
-        background-color: #0c131e;
-        width: 90vw;
-        border-radius: max(2vh, 5vw);
-        justify-content: space-between;
-        display: flex;
-        flex-direction: column;
-        box-shadow: min(1vh, 1vw) min(1vh, 1vw) min(1vh, 1vw) #111;
-        padding: 10px;
-    }
-    .menu .navbar.active li {
-        padding: 5px 0;
-    }
-    .menu .navbar.active a{
-        color: #006eff;
-        font-size: max(4vh, 2vw);
-        font-weight: 600;
-        /* padding: 10px; */
-        margin: 0px 15px;
-        border-bottom: none;
-        transition: all 0.4s ease;
-    }
-    .menu .navbar.active a:hover{
-        border-bottom: 2px solid #10d46b;
-        color: #10d46b;
-    }
-    
-}
-@media screen and (max-width: 500px) {
-    .techonicks {
-        display: none;
-    }
-}
