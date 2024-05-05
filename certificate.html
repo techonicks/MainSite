@@ -13,8 +13,15 @@
     <title>TECH-O-NICKS</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<style>
+    .verify-yes,
+    .verify-no {
+        display: none;
+    }
+</style>
 
 <body>
+
 
     <nav class="navbar custom_style m-4 navbar-expand-lg bg-body-dark">
         <div class="container-fluid">
@@ -73,20 +80,16 @@
 
     <h5 class=" text-center fs-1 fst-italic text-white">Certificate Verification</h5>
 
-
-    <div class="row container-fluid">
-        <div class="col-md-6 d-flex align-items-center justify-content-center">
-            <img src="assets/certificate-award-trophy-svgrepo-com.svg" class="img-fluid" style="width: 50%;" alt="Logo">
-        </div>
-        <div class="col-md-6 px-4 d-flex align-items-center justify-content-center flex-column">
+    <div class="container">
+        <div class="col-md-12 p-4  d-flex align-items-center justify-content-center flex-column">
             <div class="card bg-dark border border-info w-100">
-                <form action="" method="POST"></form>
+                <form>
                     <div class="card-body d-flex flex-column gap-3">
 
 
                         <div class="form-group">
-                            <label for="certificateNumber" class="form-label text-white">Certificate Number</label>
-                            <input type="text" class="form-control" id="certificateNumber" name="certificateNumber"
+                            <label for="cert" class="form-label text-white">Certificate Number</label>
+                            <input type="text" class="form-control" name="cert" id="cert"
                                 placeholder="Enter Certificate Number" required>
                         </div>
                         <button type="submit" style="width: fit-content;" class=" btn btn-outline-info">Submit</button>
@@ -97,8 +100,29 @@
 
 
         </div>
+    </div>
+
+    <div class="container">
+
+        <div class="verify-yes row p-4" id="verify-yes" style="height: 60vh;">
+            <div class="col-md-6 d-flex align-items-center justify-content-center">
+                <p id="cert-details" class="fs-5">Certificate verified.<br>Issued to "<span id="cert-name" class="fst-italic fw-bold"></span>" on <span
+                        id="cert-date"></span>. (<a id="cert-link" href="" target="_blank">View in new window</a>)
+                </p>
+            </div>
+            <div class="col-md-6 card ">
+                <iframe id="cert-view" src="" class="card-img ratio ratio-1x1" style="height: 100%;" allow="autoplay"></iframe>
+            </div>
+
+
+        </div>
+        <div class="verify-no col-md-12 p-4" id="verify-no">
+            <p class="text-center w-100 fs-5">No certificate has been issued by the Certificate ID "<span id="cert-id" class="fw-bold"></span>".</p>
+        </div>
+
 
     </div>
+
 
     <div class="d-flex flex-column align-items-center container my-4 p-4">
         <ul class="navbar gap-3">
@@ -126,17 +150,27 @@
 </body>
 
 <script>
-    function toggleMenu() {
-        const menuToggle = document.querySelector('.menu-toggle');
-        const bars = menuToggle.querySelectorAll('.bar');
-        menuToggle.classList.toggle('active');
+    function alphanumeric(str) {
+        return str.replace(/[^a-zA-Z0-9]/g, '');
+    }
 
-        bars.forEach(bar => {
-            bar.classList.toggle('active');
-        });
-
-        const menu = document.querySelector('.navbar');
-        menu.classList.toggle('active');
+    const certLinks = {
+        "24TONEWA003": ["1nIfP7SyzKDpG7LQ97QCLZhPLKGUaKIU2", "Samrat Mondal", "14th March 2024"],
+        "24TONCDA003": ["1xw5u3M4zQlSdzylGpATzR-rmf5glAZ-x", "Samrat Mondal", "14th March 2024"]
+    }
+    id = new URLSearchParams(window.location.search).get('cert')
+    if (id) {
+        id = alphanumeric(id.toUpperCase())
+        if (certLinks[id]) {
+            document.getElementById("cert-name").innerHTML = certLinks[id][1];
+            document.getElementById("cert-date").innerHTML = certLinks[id][2];
+            document.getElementById("cert-link").href = "https://drive.google.com/file/d/" + certLinks[id][0] + "/view";
+            document.getElementById("cert-view").src = "https://drive.google.com/file/d/" + certLinks[id][0] + "/preview";
+            document.getElementById("verify-yes").style.display = "flex";
+        } else {
+            document.getElementById("cert-id").innerHTML = id;
+            document.getElementById("verify-no").style.display = "flex";
+        }
     }
 </script>
 
