@@ -37,4 +37,5 @@ const certObject = {
     '24TONEWP012': ['1m_WLdiTUgtsvnIjpUMbMSGm2u9GHT2FG', 'Ashish Rawat', '12th January 2024'],
     '24TONEWP013': ['1vn4Ur7UVxrOF6f6NzAbjIfsFqAixWxxQ', 'Pratyush Kundu', '12th January 2024'],
     '24TONEWP014': ['14-YvpxNbUscofedq4T8aRJ3o-HGHKPkj', 'Aritra Banerjee', '12th January 2024'],
+    '25TONREP035': ['1jdgOpurZm0imU0E_AK-Pz9BPpoZesbYx', 'Sk Sahil Akhtar', '25th November 2024'],
 }
