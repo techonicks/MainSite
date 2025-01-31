@@ -150,7 +150,7 @@ const certObject = {
     '25TONEDP060': ['1qZWudkhaplz71zXaxrDx98kwoBuBtDpL', ' Aniket das', '29th November 2024'],
     '25TONEDP061': ['1Y0qcwvJ1T12a84Fam-KDPzuSAsY-t4Cx', ' Subham Saha', '29th November 2024'],
     // 2025 Entrepreneurship DesignDraft (CADD)
-    '25TONECP001': ['1iD66P2srhCt43jFoV5GygFtIT2q4sJ-o', 'Nikhil Roy', '7th December, 2024']
+    '25TONECP001': ['1iD66P2srhCt43jFoV5GygFtIT2q4sJ-o', 'Nikhil Roy', '7th December, 2024'],
     '25TONECP002': ['1xnUd9pL9hc-vkhx7C2E6nBJr5A5GhUlP', 'Suvankar Tudu', '7th December, 2024'],
     '25TONECP003': ['1HfjpdTUpr4t3sk4aeG9UnoKtTPvyzF0n', 'Swastika Mandal', '7th December, 2024'],
     '25TONECP004': ['18KC0QZ1-yDnhCfdxGPESMvQ5Fo1L4onb', 'Sarbani Das', '7th December, 2024'],
@@ -177,5 +177,5 @@ const certObject = {
     '25TONECP025': ['1B4XvTLChkZ4LtyROJo6UXF3HymSKm73D', 'SURYADIP DAS', '7th December, 2024'],
     '25TONECP026': ['19fN-tpQ4EcIM1zxEEHI6_ryBOfwo7M1x', 'SHABNUR MALLICK', '7th December, 2024'],
     '25TONECP027': ['1djwB7B9JmYq18n1cIYo5weMpNvbmBY5S', 'JOYDEEP KUMAR ROY GOSWAMI', '7th December, 2024'],
-    '25TONECP028': ['1SWGMm2Vp2AsnOUKfg7ZUJ4p5kfIIUcvl', 'Manoj Barman', '7th December, 2024'],
+    '25TONECP028': ['1SWGMm2Vp2AsnOUKfg7ZUJ4p5kfIIUcvl', 'Manoj Barman', '7th December, 2024']
 }
