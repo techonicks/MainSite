@@ -185,5 +185,5 @@ const certObject = {
 '26TONEDA003': ['1PAXBr-6gCCeZht4cRmmOK3yo801YizT4', 'RAKIBUL ISLAM MONDAL', '29th November 2024'],
 '26TONEDA004': ['1LOw6U-HISSuuXGbvyY3kscQ5ZF-cmAbt', 'MD FAHIM AKHTAB', '29th November 2024'],
 '26TONEDV001': ['1EArCOROFZCbobpojrHZ-yMdUAwbbmaA8', 'INDARNI MUKHERJEE', '29th November 2024'],
-'26TONEDV002': ['1TW_XMOVxiUxp8p1hReObeX3IM0P0zlfe', 'KOYEL SAHA', '29th November 2024'],
+'26TONEDV002': ['1TW_XMOVxiUxp8p1hReObeX3IM0P0zlfe', 'KOYEL SAHA', '29th November 2024']
 }
