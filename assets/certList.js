@@ -177,7 +177,7 @@ const certObject = {
     '25TONECP025': ['1B4XvTLChkZ4LtyROJo6UXF3HymSKm73D', 'SURYADIP DAS', '7th December, 2024'],
     '25TONECP026': ['19fN-tpQ4EcIM1zxEEHI6_ryBOfwo7M1x', 'SHABNUR MALLICK', '7th December, 2024'],
     '25TONECP027': ['1djwB7B9JmYq18n1cIYo5weMpNvbmBY5S', 'JOYDEEP KUMAR ROY GOSWAMI', '7th December, 2024'],
-    '25TONECP028': ['1SWGMm2Vp2AsnOUKfg7ZUJ4p5kfIIUcvl', 'Manoj Barman', '7th December, 2024']
+    '25TONECP028': ['1SWGMm2Vp2AsnOUKfg7ZUJ4p5kfIIUcvl', 'Manoj Barman', '7th December, 2024'],
     '26TONEDA001': ['1IVhcG_b9aZppRoTRxKgpiDsKSo3rek1o', 'SUVRA DUTTA', '29th November 2024'],
     // DEVIGNITE ORGANIZER
     '26TONEDA002': ['1miL4sWvtN2_Ye7pgHe01FB8pGCpWDmMM', 'SEIKH MAHAMMAD JAVED', '29th November 2024'],
