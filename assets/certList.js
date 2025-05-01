@@ -181,8 +181,18 @@ const certObject = {
     '26TONEDA001': ['1IVhcG_b9aZppRoTRxKgpiDsKSo3rek1o', 'SUVRA DUTTA', '29th November 2024'],
     // DEVIGNITE ORGANIZER
     '26TONEDA002': ['1miL4sWvtN2_Ye7pgHe01FB8pGCpWDmMM', 'SEIKH MAHAMMAD JAVED', '29th November 2024'],
-'26TONEDA003': ['1PAXBr-6gCCeZht4cRmmOK3yo801YizT4', 'RAKIBUL ISLAM MONDAL', '29th November 2024'],
-'26TONEDA004': ['1LOw6U-HISSuuXGbvyY3kscQ5ZF-cmAbt', 'MD FAHIM AKHTAB', '29th November 2024'],
-'26TONEDV001': ['1EArCOROFZCbobpojrHZ-yMdUAwbbmaA8', 'INDARNI MUKHERJEE', '29th November 2024'],
-'26TONEDV002': ['1TW_XMOVxiUxp8p1hReObeX3IM0P0zlfe', 'KOYEL SAHA', '29th November 2024']
+    '26TONEDA003': ['1PAXBr-6gCCeZht4cRmmOK3yo801YizT4', 'RAKIBUL ISLAM MONDAL', '29th November 2024'],
+    '26TONEDA004': ['1LOw6U-HISSuuXGbvyY3kscQ5ZF-cmAbt', 'MD FAHIM AKHTAB', '29th November 2024'],
+    '26TONEDV001': ['1EArCOROFZCbobpojrHZ-yMdUAwbbmaA8', 'INDARNI MUKHERJEE', '29th November 2024'],
+    '26TONEDV002': ['1TW_XMOVxiUxp8p1hReObeX3IM0P0zlfe', 'KOYEL SAHA', '29th November 2024'],
+    // ROBOTICS ORGANIZER
+    '25TONERA001': ['1huHVRs_Jy2ITHTkutQI4mPjGwjDbhuAE', 'Soumyajit Pandit', '25th November, 2024'],
+    '25TONERA002': ['1FamhwdK-Nb9mLZuFYWxm1zae6CvNYuZj', 'Saswata Mukherjee', '25th November, 2024'],
+    '25TONERA003': ['1HS72i_XytPpw5yA0fu0wdu2gqCOGIpq2', 'Aushi Sarkar', '25th November, 2024'],
+    '25TONERA004': ['1-K4DAlWkJ641XZzFnvsLzgXJcX4D9UyS', 'Nabajyati Nag', '25th November, 2024'],
+    '25TONERA005': ['1oMuQKn_lC3_S9D36AU8vX4y1dZ1tfFS2', 'Sayan Sarkar', '25th November, 2024'],
+    '25TONERA006': ['1tKsep1UgAT7nh6G7iwGmy1szXR0haldb', 'Biraj Sarkar', '25th November, 2024'],
+    '25TONERA007': ['1Kp7Se4RPl1uYODtceRSqL3Xi5BRvB79G', 'Debanjan Chakraborty', '25th November, 2024'],
+    '25TONERA008': ['1E0LhBijRK37cZ0XGH6g1ME-894lxry-b', 'Joydip Das', '25th November, 2024'],
+    '25TONERA009': ['1U7CJuc4MKuFiJx61MKn44PizeeTGeRDX', 'Sarupya Guha', '25th November, 2024']
 }
