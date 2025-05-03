@@ -51,6 +51,8 @@ const certObject = {
     '25TONERA007': ['1Kp7Se4RPl1uYODtceRSqL3Xi5BRvB79G', 'Debanjan Chakraborty', '25th November, 2024'],
     '25TONERA008': ['1E0LhBijRK37cZ0XGH6g1ME-894lxry-b', 'Joydip Das', '25th November, 2024'],
     '25TONERA009': ['1U7CJuc4MKuFiJx61MKn44PizeeTGeRDX', 'Sarupya Guha', '25th November, 2024'],
+    '25TONERA010': ['1_i-qongOuEWEAf2Njx6j1kC7np9zHE5v', 'Soumyajit Bhunia', '25th November, 2024'],
+    '25TONERA011': ['1Jqp0WNsT_4YbZnczN5IE8jCARr5KBBsX', 'Raju Biswas', '25th November, 2024'],
     '25TONREP001': ['1hP9xE39AhfwwEzRF-PdL9m1i6o_HLbk4', 'Aniket das', '25th November, 2024'],
     '25TONREP002': ['1p01B7-RdA4Uk3SYuVHflXSmliG6Gt-_A', 'Arkaprabha Dutta', '25th November, 2024'],
     '25TONREP003': ['1rM1CB7wGY5a4PEBcaimq4rb0M3rS1INB', 'Pranay Hazra', '25th November, 2024'],
@@ -257,7 +259,7 @@ const certObject = {
 Line 4 - 2024 Competition DevDraw (Web-Development)
 Line 20 - 2024 Entrepreneurship Web-Development
 Line 44 - 2025 Entrepreneurship Robotics
-Line 102 - 2025 Entrepreneurship DevIgnite (Web-Development)
-Line 169 - 2025 Entrepreneurship DesignDraft (CADD)
-Line 198 - 2025 Competition Technovista (Tech-Quiz, Code-A-Thon, Circuit Quest, CraftyCAD, Dev-Draw 2.0)
+Line 104 - 2025 Entrepreneurship DevIgnite (Web-Development)
+Line 171 - 2025 Entrepreneurship DesignDraft (CADD)
+Line 200 - 2025 Competition Technovista (Tech-Quiz, Code-A-Thon, Circuit Quest, CraftyCAD, Dev-Draw 2.0)
 */
