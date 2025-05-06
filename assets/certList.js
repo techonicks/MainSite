@@ -169,6 +169,11 @@ const certObject = {
     '25TONEDP060': ['1qZWudkhaplz71zXaxrDx98kwoBuBtDpL', ' Aniket das', '29th November 2024'],
     '25TONEDP061': ['1Y0qcwvJ1T12a84Fam-KDPzuSAsY-t4Cx', ' Subham Saha', '29th November 2024'],
     // 2025 Entrepreneurship DesignDraft (CADD)
+    '25TONECA001': ['1aY5FEzf19lN4vtefKyZmmD__CU-vRO1f', 'Soumyajit Bhunia', '7th December, 2025'],
+    '25TONECA002': ['1Z08XGi7JIIAm7SG7N9UTK1UX4Aa9j2Bi', 'Raju Biswas', '7th December, 2025'],
+    '25TONECA003': ['1Gk4mDwhmHHHNrdXpqEWuRVfA_Ao6xKJQ', 'Bidhan Barman', '7th December, 2025'],
+    '25TONECA004': ['1VNcyfADXt_YlXSg6uI0nY3BQWt4_y5V6', 'Titas Roy', '7th December, 2025'],
+    '25TONECA005': ['1j8MIm-k3lxVu-pjwNrDr0ruYvnZQOLF6', 'Soumyajit Pandit', '7th December, 2025'],
     '25TONECP001': ['1iD66P2srhCt43jFoV5GygFtIT2q4sJ-o', 'Nikhil Roy', '7th December, 2024'],
     '25TONECP002': ['1xnUd9pL9hc-vkhx7C2E6nBJr5A5GhUlP', 'Suvankar Tudu', '7th December, 2024'],
     '25TONECP003': ['1HfjpdTUpr4t3sk4aeG9UnoKtTPvyzF0n', 'Swastika Mandal', '7th December, 2024'],
@@ -197,6 +202,7 @@ const certObject = {
     '25TONECP026': ['19fN-tpQ4EcIM1zxEEHI6_ryBOfwo7M1x', 'SHABNUR MALLICK', '7th December, 2024'],
     '25TONECP027': ['1djwB7B9JmYq18n1cIYo5weMpNvbmBY5S', 'JOYDEEP KUMAR ROY GOSWAMI', '7th December, 2024'],
     '25TONECP028': ['1SWGMm2Vp2AsnOUKfg7ZUJ4p5kfIIUcvl', 'Manoj Barman', '7th December, 2024'],
+    '25TONECP029': ['1sz46y2RqVfNKDBDRs7YkYE-Hm1A80jv4', 'Deepon Roy', '7th December, 2025'],
     // 2025 Competition Technovista (Tech-Quiz, Code-A-Thon, Circuit Quest, CraftyCAD, Dev-Draw 2.0)
     '25TONCTP001': ['1bx9x1MMjYIngyRQrt-oLoWi98jj_bMVi', 'Debojit Sarkar', '29th January, 2025'],
     '25TONCTP002': ['1EM7MEMF7Fou3hf1Bq0Wmdknv-FYtpGJZ', 'Subhradeep Deb', '29th January, 2025'],
