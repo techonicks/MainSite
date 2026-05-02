@@ -302,7 +302,10 @@ const certObject = {
     '25TONCTP052': ['1Cx1HWbsJLBgTVaTBGhCdTHQJ6pbF_82J', 'Niloy Roy', '31st January 2025'],
     '25TONCTP053': ['1rubY9G4-YkNyNOcy_kEuxXvv7OS5aBps', 'Debojit Sarkar', '31st January 2025'],
     '25TONCTP054': ['1BtAtuYUtkE6IGMYk0VcyK5ear8NQ7g9n', 'Rishav Prasad', '31st January 2025'],
-    '25TONCTP055': ['1PiSdmYVF9FGXCJrO5Zum5wZB1mvqdS_Z', 'Fahim Ahmed', '31st January 2025']
+    '25TONCTP055': ['1PiSdmYVF9FGXCJrO5Zum5wZB1mvqdS_Z', 'Fahim Ahmed', '31st January 2025'],
+
+    // test certificate
+    '26TONEWP001': ['1KVInZ2H3UaPhiyV7kbZTh2hWCheJE80p', 'Francisco Andrade', '2nd May, 2026']
 }
 
 /* INDEX - chronologically ordered
