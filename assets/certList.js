@@ -814,6 +814,12 @@ const certObject = {
     '26TONCTA003': ['16aw1qpmlFQcWM_fINd2mjDkI_OnDmLWo', 'Abhishek Mukherjee', '6th May 2040'],
     '26TONCTA002': ['1dxGRZ_4mhPrhUZygrDj0qRQp7qSUHhi9', 'Subham Jana', '6th May 2041'],
     '26TONCTA001': ['1fQh520-86ObfYS52DuENOs1J1V-zLhgJ', 'Sk Sahil Akhtar', '6th May 2042'],
+    // 26-TON-CPA
+    '26TONCPA005': ['1zr1-nQujTJvmQN35G0TAPk-_L6htHDQj', 'Parthiv Bania', '6th May 2026'],
+    '26TONCPA004': ['1GkoALcBfJ72DrvR7kh67KDZVVi-7uQmk', 'Rishav Prasad', '6th May 2026'],
+    '26TONCPA003': ['1az3rgCK_CMN0Q7vDky04n1en1VLNEdUu', 'Anirudha Ghosh', '6th May 2026'],
+    '26TONCPA002': ['1cuLfmLOjYlmg5fVCakre9me5vQSeXB5k', 'Rajat Mondal', '6th May 2026'],
+    '26TONCPA001': ['1dqQ0yXCi5mEg-NHzt66vyaOoCK4_4NXy', 'Utsav Pal', '6th May 2026'],
 }
 
 /* INDEX - chronologically ordered
