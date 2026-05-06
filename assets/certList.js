@@ -796,6 +796,24 @@ const certObject = {
     '26TONS3P003': ['1cIn3z_q9OKNnA2OGtREw7z0HBg13yrZI', 'DEBAJIT DAS', '6th May 2026'],
     '26TONS3P002': ['1M5K4EDXrNwbM4ReASLNsnVuKgj9sJ6XR', 'Ankita Mandal', '6th May 2026'],
     '26TONS3P001': ['1ZemAyHglS_kuo1KBaGLMmb8ZjXqbFt3m', 'Disha Samanta', '6th May 2026'],
+    // 26-TON-CTP
+    '26TONCTA015': ['1jRCLv-whG4KxQrtpqy0Ko6PSD1yvFHyk', 'Suman Mondal', '6th May 2026'],
+    '26TONCTA014': ['1Xh82rm3zODOgeqk98htQJHvX1q3w9Pho', 'Deep Harh', '6th May 2027'],
+    '26TONCTA013': ['1D2z5lm2rvksf8SU1h8-n6OaTjY2f_WWu', 'Debojit Sarkar', '6th May 2028'],
+    '26TONCTA012': ['1mMkTzOrQV7x-emUmzuH0kOHtREzqV4Y7', 'Arman Mia', '6th May 2029'],
+    '26TONCPP017': ['10rpE9LCXmgI8vqH5RC-PyDJ6BtKgfbuI', 'Suman Mondal', '6th May 2030'],
+    '26TONCPP015': ['1KAPzfoHCykRaFVmELlbI8QWWeAoN2sEQ', 'Debojit Sarkar', '6th May 2031'],
+    '26TONCPP014': ['1xX8-82Tfotha3P8tdtWqum_R2BcHd-vi', 'Arman Mia', '6th May 2032'],
+    '26TONCTA010': ['1qB-k-OisdxQ98jqkefBJwVWWrmhIBa-G', 'Parthiv Bania', '6th May 2033'],
+    '26TONCTA009': ['1TIsWjoELtcA1yVJackj6A_-JcMz5Xdgf', 'Rishav Prasad', '6th May 2034'],
+    '26TONCTA008': ['1IR2Ui8ZdxpebjWQA6lDwYvcNLfxcWkvs', 'Rajat Mondal', '6th May 2035'],
+    '26TONCTA007': ['1Er2Y2rqQNv9tBK0qoLAvMx3Ue1mjatkj', 'Aniket Das', '6th May 2036'],
+    '26TONCTA006': ['1mWLNYzN5n04-FHZ98WPBVeUVG0C_9xIz', 'Riya Bhattacharya', '6th May 2037'],
+    '26TONCTA005': ['1DfbUkqE1PatA-Oyeq2RfjeV7inIormJZ', 'Santanu Saha', '6th May 2038'],
+    '26TONCTA004': ['1BnjvCjW-R-MK4DftH5PBPKiFNVi6Q8R_', 'Arnab Bar', '6th May 2039'],
+    '26TONCTA003': ['16aw1qpmlFQcWM_fINd2mjDkI_OnDmLWo', 'Abhishek Mukherjee', '6th May 2040'],
+    '26TONCTA002': ['1dxGRZ_4mhPrhUZygrDj0qRQp7qSUHhi9', 'Subham Jana', '6th May 2041'],
+    '26TONCTA001': ['1fQh520-86ObfYS52DuENOs1J1V-zLhgJ', 'Sk Sahil Akhtar', '6th May 2042'],
 }
 
 /* INDEX - chronologically ordered
