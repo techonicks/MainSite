@@ -872,6 +872,7 @@ const certObject = {
     '26TONECV001': ['1A-kAOC3vimgwk9uU36QFna2-cBf8Robf', 'Anirban Biswas', '6th May 2026'],
     // 26-TON-CORRECTION
     '26TONCPP014': ['1SnWRXtn8sWQUCcElglMk4IouRKgYpDz5', 'Sourav Barman', '6th May 2026'],
+    '26TONCPP018': ['1RtS68b-vQQldAoOcNNZnbLAQQoCGDR9M', 'Rudra Jyoti Haldar', '6th May 2026'],
     '26TONEWP134': ['1p-mDWe73p3XwgJN-9usnOHbAHSWQ-UX9', 'Shubhangi Roy', '6th May 2026'],
     '26TONECP061': ['1XegdsX_9jozBXrTsv-IwLCzrg_XMdkGF', 'Kartick kumar Garai', '6th May 2026'],
     '26TONECP060': ['1_YkUs6GQkwa5tWEIyv0BGMbsMMmOR3mX', 'Sujay Saha', '6th May 2026'],
