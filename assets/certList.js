@@ -307,7 +307,6 @@ const certObject = {
     '26TONCTP001': ['1xXhjp6jSBWFcbbhTYcKn6qXTy679U9u-', 'Rupam Barman', '30th April 2026'],
     '26TONCTP002': ['1ULv9BgFM_CFm3oxhDRzKu7knLGuPFxMJ', 'Subhrajit Mandal', '30th April 2026'],
     '26TONCTP003': ['1PdoIpaiFsgMLYcJSAQupTPptSnzNgiIt', 'Dipti Roy', '30th April 2026'],
-    '26TONCTP004': ['1ilpaznfb0adTWqk2F7Dx6ZIFnNdxmF-x', 'Ritika Mondal', '30th April 2026'],
     '26TONCTP005': ['1gjliwifsfP55o6fGZCdMrVYle8jayorA', 'Aabharan Dutta', '30th April 2026'],
     '26TONCTP006': ['11zeKSeQp73ggfwOj_Ri8M4g57Qev-kAk', 'Rabindra Dey', '30th April 2026'],
     '26TONCTP007': ['1n2foCCO8NhMY7h4yl37jc0KLKwHMqRZf', 'Subham Sadhu', '30th April 2026'],
@@ -871,6 +870,21 @@ const certObject = {
     '26TONECV003': ['1dy6-Kaby0EhWGVvp4LmkhAwUeHOXUrNS', 'Somesh Sen', '6th May 2026'],
     '26TONECV002': ['1ims36ZtuQLVKWvddohjKjNg_EPNHySk8', 'Ayan Biswas', '6th May 2026'],
     '26TONECV001': ['1A-kAOC3vimgwk9uU36QFna2-cBf8Robf', 'Anirban Biswas', '6th May 2026'],
+    // 26-TON-CORRECTION
+    '26TONCPP014': ['1SnWRXtn8sWQUCcElglMk4IouRKgYpDz5', 'Sourav Barman', '6th May 2026'],
+    '26TONEWP134': ['1p-mDWe73p3XwgJN-9usnOHbAHSWQ-UX9', 'Shubhangi Roy', '6th May 2026'],
+    '26TONECP061': ['1XegdsX_9jozBXrTsv-IwLCzrg_XMdkGF', 'Kartick kumar Garai', '6th May 2026'],
+    '26TONECP060': ['1_YkUs6GQkwa5tWEIyv0BGMbsMMmOR3mX', 'Sujay Saha', '6th May 2026'],
+    '26TONECP059': ['1HbDThfjzpwu2P2Ip98Ug1u34DqJYR46C', 'Aniruddha Mukherjee', '6th May 2026'],
+    '26TONECP058': ['14-YqjDh6FeAUUxLD8WXMtEUGDvBkiK3r', 'Deep Barman', '6th May 2026'],
+    '26TONCTP066': ['1rTcwGgWBAvGj4JVz6pqmvVMiU4aZVoWI', 'Saahir E N Mondal', '6th May 2026'],
+    '26TONCTP065': ['1eGtJzqIzfAUm5QkqkIP_-ngyrNdXPHon', 'ANUPAM DAS', '6th May 2026'],
+    '26TONCTP064': ['1PAOicjIhNEv3rTfhRQ7Q3V8DJhNH0CnO', 'Ritika Mondal', '6th May 2026'],
+    '26TONCTP063': ['1MBEqeEmRAx8Qoi-yZugJ6p8ErlYZxFAb', 'Reetashree Barman', '6th May 2026'],
+    '26TONCTP062': ['1ZBKYgRW6wll3eOnD2KYO9rXv67yP4LBU', 'SAYANDWIP DAS', '6th May 2026'],
+    '26TONCTP061': ['15nwG5zYrWCSG8bbe3X6j2EbbHHCanHjc', 'DEEP GHOSH', '6th May 2026'],
+    '26TONCTP060': ['100ApwNalUoVrvTr3rPakC9AdYppLHDMp', 'Sarbajit Mondal', '6th May 2026'],
+    '26TONCTA016': ['1BT7UC9rPurpqMKRsikjcfHSQyrzta-dz', 'Somiha Das', '6th May 2026'],
 }
 
 /* INDEX - chronologically ordered
