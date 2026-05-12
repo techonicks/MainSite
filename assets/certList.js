@@ -859,6 +859,18 @@ const certObject = {
     '26TONS3A003': ['17hsxKAAOCErOEWLFt88w-vQ4vXqZHABY', 'Utsav Pal', '6th May 2026'],
     '26TONS3A002': ['19VSKClTlRnH_qownDWbkPG0nfUOvj0_o', 'Parthiv Bania', '6th May 2026'],
     '26TONS3A001': ['11RiZApp3QsnEAHOZxeSXtZxRIJvR2gul', 'Rishav Prasad', '6th May 2026'],
+    // 26-TON-EVA
+    '26TONECV011': ['1BnuYZKv7VB3eeN4kOTZ1rDvEQEleaGbW', 'Sannidhyo Datta Chaudhuri', '6th May 2026'],
+    '26TONECV010': ['15jaOgoFl3bRfAKMU0jjtZ0-EastzpS6V', 'Subhradeep Guha Niyogi', '6th May 2026'],
+    '26TONECV009': ['1QIO5vBDvHgmIZkZGt10VyQBO6EQbG-Ii', 'Archisman Ghatak', '6th May 2026'],
+    '26TONECV008': ['1PlbXNgXC0sK5WAPhTjit4v9LDnccsCe3', 'Mayanka Biswas', '6th May 2026'],
+    '26TONECV007': ['1UH8MLBRGPxrHmCXxCD6QPQI2fwhJu4EJ', 'Dhruba Biswas', '6th May 2026'],
+    '26TONECV006': ['1c5QrCloWgv3fcVfCCPta4tujAWciDdq2', 'Arakadip debnath', '6th May 2026'],
+    '26TONECV005': ['1Vjyzzc3eQTWc1Ka5Vuiwujr6hYjFIhmX', 'Chandra Sarkar', '6th May 2026'],
+    '26TONECV004': ['10jFzFPdIrkyCZoOubJbl0te7NfVrYLM-', 'Prayag Mahapatra', '6th May 2026'],
+    '26TONECV003': ['1dy6-Kaby0EhWGVvp4LmkhAwUeHOXUrNS', 'Somesh Sen', '6th May 2026'],
+    '26TONECV002': ['1ims36ZtuQLVKWvddohjKjNg_EPNHySk8', 'Ayan Biswas', '6th May 2026'],
+    '26TONECV001': ['1A-kAOC3vimgwk9uU36QFna2-cBf8Robf', 'Anirban Biswas', '6th May 2026'],
 }
 
 /* INDEX - chronologically ordered
