@@ -893,7 +893,7 @@ const certObject = {
     '26TONEWP156': ['1DWDgHRRql-JqiQW35DkGHDxElLKs_AfX', 'Bedanta De', '6th May 2026'],
     '26TONEWP157': ['1HqmR7SkVUNPfq9NXZ2lk_-nfixAryRG7', 'Arnab Majumdar', '6th May 2026'],
     '26TONEWP158': ['1LwZMNlGWUPu0KZyBhOfSI-zGZvKGtpVz', 'Tutan Barman', '6th May 2026'],
-    '26TONCTP020': ['1RPMj7eRfjggpJWoLFyoqMy4bEwlnhjC7', 'Arijit Dutta', '6th May 2026'],
+    '26TONCTA020': ['1RPMj7eRfjggpJWoLFyoqMy4bEwlnhjC7', 'Arijit Dutta', '6th May 2026'],
     '26TONCTP075': ['1Y_fL7CssE89grp2geJbnUCqdgwxaFvjc', 'Arnab Majumder', '6th May 2026'],
     '26TONEWP154': ['1wY86b_3TZvHl6nV3_rJjspmXJmA__35y', 'Arijit Dutta', '6th May 2026'],
 }
